@@ -3,7 +3,7 @@ title: debianIP配置模板
 date: 2019-08-29 16:40:37
 tags: linux
 ---
-![avatar](img/20190829_0.png "debianIP配置")
+![avatar](/img/20190829_0.png "debianIP配置")
 #vi /etc/network/interfaces
 ## 配置静态ip
 #自动开启
