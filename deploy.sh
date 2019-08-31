@@ -3,4 +3,4 @@
 
 hexo clean
 hexo g
-hexo d << 654soga+git
+hexo d 
