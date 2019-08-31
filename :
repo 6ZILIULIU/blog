@@ -1,0 +1,12 @@
+gitPush.sh deploy.sh
+#!/bin/bash
+
+git add .
+git commit -m "default text"
+git push --set-upstream origin master
+#!/bin/bash
+
+
+hexo clean
+hexo g
+hexo d 

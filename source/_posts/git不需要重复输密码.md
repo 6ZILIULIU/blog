@@ -12,3 +12,5 @@ tags: git
 
 - 输出以下格式http://username:passwd@github.com
  
+1. git push --global credential.helper store
+2. 再次push上传，输一次密码就会保存
