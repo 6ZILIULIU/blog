@@ -38,7 +38,7 @@ tags:
 [base64str]:data:image/png;base64,iVBORw0......
 ```
 
-## **最后，base64的图片编码如何得来？**
+### 最后，base64的图片编码如何得来？
 
 1. 使用python将图片转化为base64字符串
 ```
