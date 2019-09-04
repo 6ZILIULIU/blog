@@ -18,6 +18,8 @@ tags: vue
 | v-for     | 循环遍历数组或者对象                                                                                         |
 | v-if      | 若数据为true则显示                                                                                           |
 | v-else    | 在if为false的时候触发，且使用v-else时必须有对应的v-if                                                        |
+
+
 ## 使用方法
 
 ### 首先需要有一个vue对象
