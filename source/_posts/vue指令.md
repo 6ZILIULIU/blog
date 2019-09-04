@@ -9,8 +9,8 @@ tags: vue
 | directive | function                                                                                                     |
 | :-:       | :-                                                                                                           |
 | v-model   |  实现数据的双向绑定                                                                                         |
-| v-text    |  用于动态渲染msg，相当于在html中写'{{msg}}'<br> - 有当加载完毕后才显示数据，不会在页面出现{{msg}}这样的字符 |
-| v-once    |  用于动态渲染msg，相当于html中写的{{msg}}                                                                   |
+| v-text    |  用于动态渲染msg，相当于在html中写 `{ {msg} }` <br>有当加载完毕后才显示数据，不会在页面出现{{msg}}这样的字符 |
+| v-once    |  用于动态渲染msg，相当于html中写的 `{ {msg} }`                                                                 |
 | v-html    |  将p属性里面的数据渲染成html格式                                                                            |
 | v-bind    |  绑定元素属性，可缩写为':',如`<a :href="some-data`"></a>`                                                   |
 | v-show    |  相当于display属性                                                                                          |
